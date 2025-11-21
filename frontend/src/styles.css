@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px; }
+
+.container {
+    max-width: 600px;
+    margin: 0 auto; }
+
+.code-box {
+    font-size: 1.4rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 12px;
+    display: inline-block;
+    min-width: 180px;
+    text-align:center; }
+
+.btn { padding: 8px 12px; margin-right:8px; cursor:pointer; }
+.success { color: green; margin-top: 12px; }
+.error { color: red; margin-top: 12px; }

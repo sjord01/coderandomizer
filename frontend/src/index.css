@@ -1,0 +1,7 @@
+/* simple spacing utilities used by the app */
+.codeBox {
+    font-family: "Roboto Mono", monospace;
+    font-size: 1.25rem;
+    letter-spacing: 0.08rem;
+    padding: 12px 16px;
+}
